@@ -1,0 +1,51 @@
+.container-fluid {
+  background-color: rgb(246, 190, 140);
+}
+.heading1 {
+  margin: 1rem;
+  padding-left: 25rem;
+}
+.box1 {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.heading2 {
+  background-color: rgb(246, 190, 140);
+}
+.year {
+  margin: 1%;
+  padding: 1%;
+  font-size: 18px;
+}
+.l {
+  margin: 1%;
+  padding: 1%;
+}
+.size {
+  margin-left: 78px;
+}
+.form-selects {
+  font-size: 15px;
+  margin-left: 95px;
+}
+.l {
+  margin: 1%;
+  padding: 1%;
+}
+.size {
+  font-size: 18px;
+}
+.box {
+  background-color: rgb(246, 190, 140);
+  font-size: 20px;
+  color: rgba(92, 35, 3, 0.993);
+}
+.b {
+  color: rgba(92, 35, 3, 0.993);
+  font-family: serif;
+  font-weight: 600;
+}
+.back {
+  color: black;
+}
